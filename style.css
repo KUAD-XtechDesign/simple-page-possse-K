@@ -2,7 +2,7 @@ body{
   font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   margin: 0;
   padding: 20px;
-  background-color: #ddd;
+  background-color: #ffb6c1;
   line-height: 1.8;
 }
 
@@ -32,7 +32,7 @@ img.frame{
   margin-bottom: 10px;
   padding-bottom: 10px;
   font-size: 1.2em;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ffb6c1;
   color: #ffb6c1;
 
 
@@ -43,7 +43,7 @@ img.frame{
 }
 
 .btns .btn{
-  color: #fff0f9;
+  color: #f730a7;
 }
 
 .btns .next{
