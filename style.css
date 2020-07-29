@@ -16,7 +16,8 @@ img.frame{
 }
 
 #container{
-  max-width: 600px;
+  max-width: 600
+  px;
   margin: 30px auto;
 }
 
