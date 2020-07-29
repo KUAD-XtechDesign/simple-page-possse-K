@@ -21,7 +21,7 @@ img.frame{
 }
 
 .info{
-  background-color: #fff;
+  background-color: rgb(247, 248, 174);
   padding: 20px;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -42,7 +42,7 @@ img.frame{
 }
 
 .btns .btn{
-  color: #666;
+  color: #fffaf0;
 }
 
 .btns .next{
