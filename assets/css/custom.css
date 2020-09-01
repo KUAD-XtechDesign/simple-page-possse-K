@@ -186,7 +186,7 @@ body.index_page h1{
 footer
 ======================================================*/
 footer{
-    background-color: #555;
+    background-color: rgb(138, 154, 243);
     color:#fff;
     font-size: 80%;
     padding:10px;
