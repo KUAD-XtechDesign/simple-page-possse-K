@@ -9,7 +9,7 @@
 
 h1{
     font-size: 18px;
-    border-left: #e2970c solid 5px;
+    border-left: #f849f8 solid 5px;
     padding-left: 5px;
     margin-bottom:20px;
 }
@@ -87,12 +87,12 @@ header {
 
 #main_nav li a:hover,
 #main_nav li span{
-    color:#e2970c;
+    color:#f849f8;
     
 }
 
 #main_nav li span{
-    border-bottom: 3px solid #e2970c;
+    border-bottom: 3px solid #f849f8;
 }
 
 
