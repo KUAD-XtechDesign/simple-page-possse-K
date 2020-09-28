@@ -2,7 +2,7 @@
 $(function(){
   
     $(".btn").on("click",()=>{
-        $("#slide").slideToggle();
+      $("#slide").slideToggle();
     })
     $("#slide").slick({
     autplay: true,
